@@ -1,6 +1,6 @@
 body {
 	background: #F5F5F5;
-	font-family: Segoe UI;
+	font-family: "Segoe UI";
 	font-size: 19px;
 	color: #F5F5F5;
 }
@@ -49,9 +49,9 @@ li {list-style: none;}
 
 .main-footer {
 	display: block;
-	margin-right: 0;
 	
 	margin: 0 auto;
+	text-align: center;
 	width: 850px;
 	height: 300px;
 }

@@ -1,8 +1,9 @@
 body {
-	background: #F5F5F5;
+	background: #8f8f8f;
 	font-family: "Segoe UI";
 	font-size: 19px;
 	color: #F5F5F5;
+	font-weight: 600;
 }
 
 li {list-style: none;}

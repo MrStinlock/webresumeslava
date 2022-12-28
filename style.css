@@ -35,7 +35,7 @@ li {list-style: none;}
 	
 	margin: 50px auto;
 	width: 850px;
-	height: 900px;
+	height: 800px;
 }
 
 .textBoxFirst h2 {
@@ -48,7 +48,8 @@ li {list-style: none;}
 
 .main-footer {
 	display: block;
-		
+	margin-right: 0;
+	
 	margin: 0 auto;
 	width: 850px;
 	height: 300px;
